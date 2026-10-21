@@ -63,3 +63,6 @@ C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Ac
 C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
 C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
 C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimerProyectoCsharp.frmNotas.resources
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Administrador-Sistema Academico1\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Administrador-Sistema Academico1\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Administrador-Sistema Academico1\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
