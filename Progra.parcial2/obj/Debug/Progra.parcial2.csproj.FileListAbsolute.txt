@@ -1,0 +1,11 @@
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\bin\Debug\Progra.parcial2.exe.config
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\bin\Debug\Progra.parcial2.exe
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\bin\Debug\Progra.parcial2.pdb
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.frm_usuario.resources
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.Properties.Resources.resources
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.csproj.GenerateResource.cache
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.exe
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.pdb
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.login.resources
+C:\Users\Melissa\source\repos\Progra-Semi-2026\Progra.parcial2\obj\Debug\Progra.parcial2.csproj.AssemblyReference.cache
